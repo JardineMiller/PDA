@@ -52,7 +52,7 @@ end
   end
 
   
-  if failures > 1
+  if failures > 0
     puts "Test Failed"
   else
     puts "Test Passed"
